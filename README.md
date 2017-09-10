@@ -5,9 +5,9 @@ Questa repository contiene i codici per il progetto di tesi:
 
 Sono presenti i seguenti programmi:
 
-- comunicaFinale.py
-- acquisizione.ino
-- gestioneLuci.ino
+- comunicaFinale.py (Programma principale da avviare sulla Jetson)
+- acquisizione.ino (Programma da caricare su Arduino uno per la parte di acquisizione)
+- gestioneLuci.ino (Programma da caricare su Arduino uno per la parte di gestione delle luci)
 
 Inoltre si trovano anche i programmi scritti dai miei due colleghi:
 
