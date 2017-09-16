@@ -1,4 +1,4 @@
-# ProgettoMacchinario_Tesi
+# ProgettoDispositivo_Tesi
 
 Questa repository contiene i codici per il progetto di tesi:
 "Progettazione di un sistema di acquisizione di immagini in ambiente controllato"
