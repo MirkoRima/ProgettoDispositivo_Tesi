@@ -1,6 +1,6 @@
 # ProgettoDispositivo_Tesi
 
-Questa repository contiene il la relazione e i codici per il progetto di tesi:
+Questa repository contiene la relazione e i codici per il progetto di tesi:
 "Progettazione di un sistema di acquisizione di immagini in ambiente controllato"
 
 Sono presenti i seguenti programmi:
