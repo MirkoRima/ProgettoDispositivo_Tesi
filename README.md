@@ -1,6 +1,6 @@
 # ProgettoDispositivo_Tesi
 
-Questa repository contiene i codici per il progetto di tesi:
+Questa repository contiene il la relazione e i codici per il progetto di tesi:
 "Progettazione di un sistema di acquisizione di immagini in ambiente controllato"
 
 Sono presenti i seguenti programmi:
@@ -19,4 +19,6 @@ Sono presenti due cartelle con i codici adattati per la:
 
 - Jetson TK1;
 - Jetson TX1.
+
+Relazione: Mirko Rima thesis.pdf
 
